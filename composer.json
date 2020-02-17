@@ -1,0 +1,16 @@
+{
+    "name": "singleton/damiman",
+    "description": "Paquete de ejemplo de implementacion del patron de diseño Singleton en php",
+    "authors": [
+        {
+            "name": "DamianDev",
+            "email": "ing.gonzaleza@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Singleton\\": "Singleton/"
+        }
+    }
+}
