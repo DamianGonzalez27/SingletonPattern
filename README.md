@@ -39,6 +39,10 @@ $ composer install
 
 - Ejecuta el comando de ejecucion en consola para ver el resultado
 
+```sh
+$ php Client.php
+```
+
 Por defecto nuestro programa nos retorna un mensaje en consola 'Hola mundo'
 
 
